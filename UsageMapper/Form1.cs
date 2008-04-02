@@ -31,6 +31,7 @@ namespace UsageMapper
         }
 
         private void button2_Click(object sender, EventArgs e) {
+            if (textBox1.Text.Length == 0) return;
             string curFolder = textBox1.Text;
             if (curFolder[curFolder.Length - 1] == '\\') curFolder = curFolder.Substring(0, curFolder.Length - 1);
             int lastSlash = curFolder.LastIndexOf('\\');
