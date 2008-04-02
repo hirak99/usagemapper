@@ -2,4 +2,8 @@
 
 = Introduction =
 
+http://hirak99.googlepages.com/usagemapper.png/usagemapper-full;init:.png
+
 This is a small utility written in CSharp to graphically figure out where all your space have gone. This project was heavily inspired by KDE project [http://www.kde-apps.org/content/show.php?content=9887 Filelight]. To get the Windows binaries please visit the [http://code.google.com/p/usagemapper/downloads/list download section].
+
+The Homepage for this project is here: http://hirak99.googlepages.com/usagemapper
