@@ -6,4 +6,6 @@ This is a small utility written in CSharp to graphically figure out where all yo
 
 The Homepage for this project is here: http://hirak99.googlepages.com/usagemapper
 
+Screenshot:
+
 http://hirak99.googlepages.com/usagemapper.png/usagemapper-full;init:.png
