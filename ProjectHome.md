@@ -1,0 +1,1 @@
+Draw charts to depict which folders are using how much space. This project was inspired by the Linux tool Filelight.
